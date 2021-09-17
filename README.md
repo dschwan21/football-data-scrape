@@ -7,4 +7,4 @@
 # landing page for football statistics: https://rbsdm.com/stats/
 # nfl game data: https://nflgamedata.com/schedule.php?season=2008&week=21&team=
 # pff grades: https://www.pff.com/nfl
-# pro football reference: https://www.pro-football-reference.com/
+# pro-football reference: https://www.pro-football-reference.com/
