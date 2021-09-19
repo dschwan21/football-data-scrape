@@ -9,3 +9,4 @@
 # pff grades: https://www.pff.com/nfl
 # pro-football reference: https://www.pro-football-reference.com/
 # different statistics for qbs include:
+#    Passer Rating: http://www.csgnetwork.com/quarterbackratecalc.html#:~:text=Football%20Calculator&text=Passing%20yards%20divided%20by%20pass,an%20average%20of%2012.5%20yards.
