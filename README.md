@@ -8,6 +8,7 @@
 # nfl game data: https://nflgamedata.com/schedule.php?season=2008&week=21&team=
 # pff grades: https://www.pff.com/nfl
 # pro-football reference: https://www.pro-football-reference.com/
+# advanced qb statistics: https://www.fantasypros.com/nfl/advanced-stats-qb.php
 # different statistics for qbs include:
 #    Passer Rating:       http://www.csgnetwork.com/quarterbackratecalc.html#:~:text=Football%20Calculator&text=Passing%20yards%20divided%20by%20pass,an%20average%20of%2012.5%20yards.
 
