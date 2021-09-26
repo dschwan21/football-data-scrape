@@ -10,6 +10,7 @@
 # pff grades: https://www.pff.com/nfl
 # pro-football reference: https://www.pro-football-reference.com/
 # advanced qb statistics: https://www.fantasypros.com/nfl/advanced-stats-qb.php
+
 # different statistics for qbs include:
 
 
