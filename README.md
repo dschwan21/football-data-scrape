@@ -8,7 +8,7 @@
 # Landing page for football statistics: https://rbsdm.com/stats/
 # NFL game data: https://nflgamedata.com/schedule.php?season=2008&week=21&team=
 # PFF grades: https://www.pff.com/nfl
-# Pro-football Reference: https://www.pro-football-reference.com/
+# Pro-Football Reference: https://www.pro-football-reference.com/
 # Advanced QB statistics: https://www.fantasypros.com/nfl/advanced-stats-qb.php
 
 # Different statistics for qbs include:
