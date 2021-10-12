@@ -1,4 +1,4 @@
-# football-statistics database
+# Football-statistics database
 
 # Individual players will have profiles with year by year statistics displayed
 # The frontend will be a react application where the player data is displayed 
