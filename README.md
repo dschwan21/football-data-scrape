@@ -1,7 +1,7 @@
 # Football-statistics database
 
 # Individual players will have profiles with year by year statistics displayed.
-# The frontend will be a react application where the player data is displayed 
+# The frontend will be a react application where the player data is displayed.
 # Pulling play by play data from nflstatR
 # Individual statistics pulled only from 2009 and beyond
 # Link to the guide can be found at: https://www.nflfastr.com/articles/beginners_guide.html
