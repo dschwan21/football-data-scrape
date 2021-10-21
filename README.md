@@ -18,3 +18,6 @@
 
 #    QBR: https://www.espn.com/nfl/story/_/id/17653521/how-total-qbr-calculated-explain-our-improved-qb-rating
 #    WAR: https://www.pff.com/news/nfl-what-is-pff-war-and-why-it-shows-russell-wilson-is-the-mvp
+
+# Different stats for WR:
+  
