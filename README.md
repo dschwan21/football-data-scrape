@@ -21,3 +21,4 @@
 
 # Different stats for WR:
   
+# Avg separation per route
