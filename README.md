@@ -22,3 +22,4 @@
 # Different stats for WR:
   
 # Avg separation per route
+# yds/route run
