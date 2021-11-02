@@ -32,4 +32,5 @@
  
 # Different stats for TE: 
 # Yds/route run
+# Avg Separation
  
