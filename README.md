@@ -38,3 +38,6 @@
 # PBWR
 # RBWR
 # Sacks allowed
+
+# Different stats for K
+# FG%
