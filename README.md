@@ -42,4 +42,4 @@
 # Different stats for K
 # FG%
 # Touchback %
-#
+# make % by distance
