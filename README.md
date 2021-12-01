@@ -20,7 +20,7 @@
 #    WAR: https://www.pff.com/news/nfl-what-is-pff-war-and-why-it-shows-russell-wilson-is-the-mvp
 #    aDOT
 
-# Different stats for WR:
+# Different stats for WR:ddd
   
 # Avg separation per route
 # Yds/route run
