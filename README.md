@@ -26,7 +26,7 @@
 # Yds/route run
 # 
 
-# Different stats for RB:
+# Different stats for Runningbacks:
  
  # Yds after contact
  # Broken tackle rate
