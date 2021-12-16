@@ -11,7 +11,7 @@
 # Pro-Football Reference: https://www.pro-football-reference.com/
 # Advanced QB statistics: https://www.fantasypros.com/nfl/advanced-stats-qb.php
 
-# Different statistics for qbs include:
+# Different statistics for Quarterbacks include:
 
 
 #    Passer Rating:       http://www.csgnetwork.com/quarterbackratecalc.html#:~:text=Football%20Calculator&text=Passing%20yards%20divided%20by%20pass,an%20average%20of%2012.5%20yards.
