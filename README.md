@@ -31,7 +31,7 @@
  # Yds after contact
  # Broken tackle rate
  
-# Different stats for TE: 
+# Different stats for Tight end: 
 # Yds/route run
 # Avg Separation
 
