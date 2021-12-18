@@ -35,7 +35,7 @@
 # Yds/route run
 # Avg Separation
 
-# Different stats for OL:
+# Different stats for Offensive Line:
 # PBWR
 # RBWR
 # Sacks allowed
