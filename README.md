@@ -40,7 +40,7 @@
 # RBWR
 # Sacks allowed
 
-# Different stats for K
+# Different stats for Kickers:
 # FG%
 # Touchback %
 # make % by distance
