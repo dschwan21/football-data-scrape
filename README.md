@@ -47,3 +47,5 @@
 
 # Different stats for Defensive Ends:
 # PBU
+
+# Stats for Cornerbacks
