@@ -64,3 +64,4 @@
 # Points Per Game
 # Drive Success Rate
 # Fumbles
+# Interceptions
