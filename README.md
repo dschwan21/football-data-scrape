@@ -59,7 +59,7 @@
 # Drive Success Rate
 # +/-
 # TD %
-# 
+# Touchdowns
 
 # DEFENSE
 # Points Per Game
