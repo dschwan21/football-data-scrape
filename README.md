@@ -61,6 +61,7 @@
 # TD %
 # Touchdowns
 # Rush Yards
+# Pass Yards
 
 # DEFENSE
 # Points Per Game
