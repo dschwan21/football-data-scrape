@@ -62,6 +62,7 @@
 # Touchdowns
 # Rush Yards
 # Pass Yards
+# Yards Per Game
 
 # DEFENSE
 # Points Per Game
