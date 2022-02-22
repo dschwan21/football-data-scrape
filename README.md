@@ -46,7 +46,8 @@
 # make % by distance
 
 # Different stats for Defensive Ends:
-# PBU
+# PRWR
+# Pressures
 
 # Stats for Cornerbacks
 
