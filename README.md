@@ -48,6 +48,7 @@
 # Different stats for Defensive Ends:
 # PRWR
 # Pressures
+# Hurries
 
 # Stats for Cornerbacks
 
