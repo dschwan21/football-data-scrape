@@ -49,6 +49,7 @@
 # PRWR
 # Pressures
 # Hurries
+# QB Hits
 
 # Stats for Cornerbacks
 
