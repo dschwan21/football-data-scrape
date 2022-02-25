@@ -50,6 +50,7 @@
 # Pressures
 # Hurries
 # QB Hits
+# Sacks
 
 # Stats for Cornerbacks
 
