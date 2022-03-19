@@ -14,4 +14,6 @@ weekly = nfl.import_weekly_data([2021])
 
 descs = nfl.import_team_desc()
 
-print(pbp)
+rosters = nfl.import_rosters()
+
+print(rosters)
